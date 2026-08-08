@@ -1,0 +1,7 @@
+drive/
+.config/
+sample_data/
+node_modules/
+.env*
+*.txt
+*.log
